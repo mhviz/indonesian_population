@@ -5,4 +5,4 @@ Pada tahun 2021, saya coba menerapkan linear regression sederhana menggukanakan 
 
 Pembuatan model ada di file notebook.ipynb
 
-Untuk test model bisa menggunakan file main.py, saya membuat simulasi sederhana dengan streamlit. cara menggunakannya adalah: ketik streamlit run main.py di command prompt anda.
+Untuk test model bisa menggunakan file main.py, saya membuat simulasi sederhana dengan streamlit. cara menggunakannya: 'streamlit run main.py'
